@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/8-tiles-game/static/css/main.eb227582.chunk.css",
+    "main.js": "/8-tiles-game/static/js/main.af71d27c.chunk.js",
+    "main.js.map": "/8-tiles-game/static/js/main.af71d27c.chunk.js.map",
+    "runtime-main.js": "/8-tiles-game/static/js/runtime-main.44f41d3b.js",
+    "runtime-main.js.map": "/8-tiles-game/static/js/runtime-main.44f41d3b.js.map",
+    "static/js/2.d3b7e3c5.chunk.js": "/8-tiles-game/static/js/2.d3b7e3c5.chunk.js",
+    "static/js/2.d3b7e3c5.chunk.js.map": "/8-tiles-game/static/js/2.d3b7e3c5.chunk.js.map",
+    "index.html": "/8-tiles-game/index.html",
+    "precache-manifest.4d48c030bffbf0b776f0cadbe238a006.js": "/8-tiles-game/precache-manifest.4d48c030bffbf0b776f0cadbe238a006.js",
+    "service-worker.js": "/8-tiles-game/service-worker.js",
+    "static/css/main.eb227582.chunk.css.map": "/8-tiles-game/static/css/main.eb227582.chunk.css.map",
+    "static/js/2.d3b7e3c5.chunk.js.LICENSE.txt": "/8-tiles-game/static/js/2.d3b7e3c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44f41d3b.js",
+    "static/js/2.d3b7e3c5.chunk.js",
+    "static/css/main.eb227582.chunk.css",
+    "static/js/main.af71d27c.chunk.js"
+  ]
+}
