@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Kalam:wght@700&display=swap");
+:root {
+    --light:#6f74dd;
+    --main:#3949ab;
+    --dark:#00227b;
+    --dark-primary:#283655;
+    --dark-light:#4d648d    ;
+    --dark-dark: #1e1f26;
+    --bg-color:#408697;
+}
+h3{
+    margin-top:20px;
+    margin-bottom: 2px; 
+}
+h1{
+    text-align: center;
+    margin-top:50px;
+    margin-bottom:50px;
+    letter-spacing: 0.2em;
+}
+
+body{
+    font-family: 'Kalam', sans-serif;
+    display:grid;
+    justify-content: center;
+    color:white;
+    background-color:  #4b86b4 ; 
+    overscroll-behavior: contain;
+    overflow: hidden;
+    user-select:none;
+}
+
+.card{ 
+    padding: 15px;
+    border-radius:2px; 
+    background-color:var(--dark-dark); 
+    width:max-content;
+}
+.board{
+    display:inline-block;
+    background-color:var(--dark-light); 
+}
+
+.tile{
+    background-color:var(--dark-primary);
+    display: inline-block;
+    margin:10px; 
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 1.64em;
+    font-size:1.4em;
+}
+
+.empty{
+    display: inline-block;
+    margin:10px; 
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size:1.4em;
+    line-height: 1.64em;
+}
+.clock{
+    text-align: center;
+    font-size:1.2em;
+}
+
+.buttons{
+    display: grid;
+}
+button {
+    display: inline-block;
+    margin: 0 auto;
+    border: none;
+    padding: 1rem 2rem;
+    margin: 0;
+    text-decoration: none;
+    background: var(--dark-primary);
+    color: #ffffff;
+    font-family: 'Kalam',sans-serif;
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+    text-align: center;
+    transition: background 250ms ease-in-out, transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
