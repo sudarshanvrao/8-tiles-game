@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/8-tiles-game/precache-manifest.4d48c030bffbf0b776f0cadbe238a006.js"
+  "/8-tiles-game/precache-manifest.d7c37d073a8ea640315a8603a651c2fa.js"
 );
 
 self.addEventListener('message', (event) => {

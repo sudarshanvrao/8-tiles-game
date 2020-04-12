@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "141d66d11f0b1120f341283464c74e00",
+    "revision": "62998126d0f1c9b5ab90b7feb1420ae2",
     "url": "/8-tiles-game/index.html"
   },
   {
