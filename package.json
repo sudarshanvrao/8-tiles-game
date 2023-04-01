@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-compound-timer": "^1.2.0",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-timecode": "^1.1.22",
     "react-timer-wrapper": "^0.3.8"
   },
